@@ -1,6 +1,6 @@
 # cit281-lab5
 ```
-Postman, GET, POST requests
+Purpose: Learning Postman, GET, POST requests
 ```
 
 Using Postman to handle GET routes and POST request for ficticious students in a CIT course array. 
